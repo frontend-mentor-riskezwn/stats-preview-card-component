@@ -69,7 +69,7 @@ body .container .text_container .ach_container .ach_head {
 }
 
 body .container .img_container {
-    background: url(/images/image-header-desktop.jpg) var(--softsoft-violet);
+    background: url(./images/image-header-desktop.jpg) var(--softsoft-violet);
     background-blend-mode: multiply;
     opacity: 0.6;
     background-repeat: no-repeat;
@@ -89,7 +89,7 @@ body .container .img_container {
         flex-flow: column-reverse nowrap;
     }
     body .container .img_container {
-        background: url(/images/image-header-mobile.jpg) var(--softsoft-violet);
+        background: url(./images/image-header-mobile.jpg) var(--softsoft-violet);
         width: 100%;
         background-size: cover;
         background-repeat: no-repeat;
